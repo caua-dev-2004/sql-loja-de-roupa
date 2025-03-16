@@ -11,9 +11,3 @@ Este projeto é um banco de dados SQL que contém a estrutura e os dados necess�
 ## **Tecnologias Utilizadas**
 - **SQL**: Linguagem de consulta estruturada utilizada para interagir com o banco de dados.
 - **Sistema de Gerenciamento de Banco de Dados (SGBD)**: O projeto pode ser utilizado com SGBDs como MySQL, PostgreSQL, SQLite, entre outros.
-
-## **Como Executar o Projeto**
-1. **Pré-requisitos**: Certifique-se de ter um SGBD instalado em sua máquina. Você pode escolher entre MySQL, PostgreSQL, SQLite, etc.
-2. **Clone o Repositório**: 
-   ```bash
-   git clone <URL_DO_REPOSITORIO>
